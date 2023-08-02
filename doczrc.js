@@ -2,7 +2,7 @@ import { babel } from 'docz-plugin-babel6'
 import { css } from 'docz-plugin-css'
 
 export default {
-  title: 'react-img-zoom',
+  title: 'react-img-zoom-gdn',
   description: 'A React component to zoom images on hover',
   dest: '/docs',
   themeConfig: {
