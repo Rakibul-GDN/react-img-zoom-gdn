@@ -8,7 +8,7 @@
 ## Installation
 
 ```
-npm install react-img-zoom
+npm install react-img-zoom-gdn
 ```
 
 ## Basic usage
@@ -21,7 +21,7 @@ import Zoom from "react-img-zoom-gdn";
 <Zoom img="link-to-img" zoomScale={3} width={600} height={600} />;
 ```
 
-You can refer to the [docs](https://react-img-zoom.netlify.com/) for more information and a live demo!
+You can refer to the [docs](https://react-img-zoom.netlify.com/) which was created by "LeoNero" for more information and a live demo!
 
 ## To do
 
