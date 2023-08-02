@@ -1,7 +1,7 @@
 # react-img-zoom-gdn
 ###### This package heavily utilizes from the [react-img-zoom](https://github.com/LeoNero/react-img-zoom) by [LeoNero](https://github.com/LeoNero).
 
-[![npm version](https://badge.fury.io/js/react-img-zoom-gdn.svg)](https://badge.fury.io/js/react-img-zoom-gdn) [![GitHub Stars](https://img.shields.io/github/stars/Rakibul-GDN/react-img-zoom-gdn.svg)](https://github.com/Rakibul-GDN/react-img-zoom-gdn/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/Rakibul-GDN/react-img-zoom-gdn.svg)](https://github.com/Rakibul-GDN/react-img-zoom-gdn/issues) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php) [![CircleCI](https://circleci.com/gh/LeoNero/react-img-zoom/tree/master.svg?style=svg)](https://circleci.com/gh/LeoNero/react-img-zoom/tree/master)
+[![npm version](https://badge.fury.io/js/react-img-zoom-gdn.svg)](https://badge.fury.io/js/react-img-zoom-gdn) [![GitHub Stars](https://img.shields.io/github/stars/Rakibul-GDN/react-img-zoom-gdn.svg)](https://github.com/Rakibul-GDN/react-img-zoom-gdn/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/Rakibul-GDN/react-img-zoom-gdn.svg)](https://github.com/Rakibul-GDN/react-img-zoom-gdn/issues) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 ## Installation
 
