@@ -16,7 +16,7 @@ npm install react-img-zoom
 The component has only four required props: the link to the image, the zoom scale, the width and height (in pixels).
 
 ```jsx
-import Zoom from "react-img-zoom";
+import Zoom from "react-img-zoom-gdn";
 
 <Zoom img="link-to-img" zoomScale={3} width={600} height={600} />;
 ```

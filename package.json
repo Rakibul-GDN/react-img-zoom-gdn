@@ -1,22 +1,23 @@
 {
-  "name": "react-img-zoom",
+  "name": "react-img-zoom-gdn",
   "main": "dist/index.js",
   "version": "0.1.0",
-  "author": "Leonardo Felipe Nerone <leonardofelipenerone@gmail.com>",
+  "author": "Rakibul Hasan <rhasan.diu.cse@gmail.com>, Leonardo Felipe Nerone <leonardofelipenerone@gmail.com>",
   "description": "A React component to zoom images on hover",
-  "bugs": "https://github.com/LeoNero/react-img-zoom/issues",
-  "homepage": "https://github.com/LeoNero/react-img-zoom",
+  "bugs": "https://github.com/Rakibul-GDN/react-img-zoom-gdn/issues",
+  "homepage": "hhttps://github.com/Rakibul-GDN/react-img-zoom-gdn",
   "license": "MIT",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git@github.com:LeoNero/react-img-zoom.git"
+    "url": "git@github.com:Rakibul-GDN/react-img-zoom-gdn.git"
   },
   "keywords": [
     "react",
     "image",
     "zoom",
-    "mouse"
+    "mouse",
+    "gdn"
   ],
   "scripts": {
     "build": "env NODE_ENV=production rollup -c",
