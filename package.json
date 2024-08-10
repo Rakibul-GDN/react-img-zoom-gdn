@@ -5,12 +5,17 @@
     "author": "Rakibul Hasan <rhasan.diu.cse@gmail.com>, Leonardo Felipe Nerone <leonardofelipenerone@gmail.com>",
     "description": "A React component to zoom images on hover",
     "bugs": "https://github.com/Rakibul-GDN/react-img-zoom-gdn/issues",
-    "homepage": "hhttps://github.com/Rakibul-GDN/react-img-zoom-gdn",
+    "homepage": "https://github.com/Rakibul-GDN/react-img-zoom-gdn",
     "license": "MIT",
     "private": false,
     "repository": {
         "type": "git",
         "url": "git@github.com:Rakibul-GDN/react-img-zoom-gdn.git"
+    },
+    "exports": {
+        ".": {
+          "types": "./react-img-zoom-gdn.d.ts"
+        }
     },
     "keywords": [
         "react",
